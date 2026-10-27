@@ -41,4 +41,3 @@ print(sum(new_numbers))
 cities = ["москва", "санкт-петербург", "казань"]
 new_list = [city.capitalize() for city in cities]
 print(new_list)
-
