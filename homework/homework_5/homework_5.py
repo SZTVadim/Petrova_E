@@ -38,6 +38,7 @@ print(sum(new_numbers))
 
 # ЗАДАНИЕ 7
 
-list = ["москва", "санкт-петербург", "казань"]
-new_list = [word.capitalize() for word in list]
+cities = ["москва", "санкт-петербург", "казань"]
+new_list = [city.capitalize() for city in cities]
 print(new_list)
+
